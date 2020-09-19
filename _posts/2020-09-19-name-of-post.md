@@ -1,5 +1,6 @@
 ---
-title: "Welcome to Jekyll!"
+title: "Welcome to Jhyuniee's Blog!"
+summary : hyuniee's study note
 date: 2020-09-19 16:07:28 -0400
 categories: jekyll update
 ---
